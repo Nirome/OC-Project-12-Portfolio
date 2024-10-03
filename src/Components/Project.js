@@ -39,7 +39,7 @@ function Project({ title, image, description, techstack, previewLink, githubLink
               rel="noreferrer noopener"
               className="underline pl-2 font-light dark:text-white"
             >
-              Live Preview
+              Voir le projet
             </a>
           </div>
           <div className="flex items-center">
@@ -64,7 +64,7 @@ function Project({ title, image, description, techstack, previewLink, githubLink
               rel="noreferrer noopener"
               className="underline pl-2 font-light dark:text-white"
             >
-              View Code
+              Github
             </a>
           </div>
         </div>

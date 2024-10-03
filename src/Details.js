@@ -18,12 +18,12 @@ import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
 import figma from "./assets/techstack/figma.png";
 // Porject Images
-import projectImage1 from "./assets/projects/booki1.png";
-import projectImage2 from "./assets/projects/project2.jpg";
-import projectImage3 from "./assets/projects/project3.jpg";
-import projectImage4 from "./assets/projects/project4.jpg";
-import projectImage5 from "./assets/projects/project5.jpg";
-import projectImage6 from "./assets/projects/project6.jpg";
+import projectImage1 from "./assets/projects/booki.webp";
+import projectImage2 from "./assets/projects/ohmyfood.webp";
+import projectImage3 from "./assets/projects/print-it.webp";
+import projectImage4 from "./assets/projects/sophie-bluel.webp";
+import projectImage5 from "./assets/projects/kasa.webp";
+import projectImage6 from "./assets/projects/argentbank.webp";
 
 // Logos
 export const logos = {
@@ -109,34 +109,32 @@ export const techStackDetails = {
 // Enter your Project Details here
 export const projectDetails = [
   {
-    title: "Project title 1",
+    title: "Booki",
     image: projectImage1,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `Création de la page d'accueil d'une agence de voyage. Intégration d'une interface responsive à partir de maquettes.`,
+    techstack: "HTML/CSS",
+    previewLink: "https://nirome.github.io/OCProject3-Booki/",
+    githubLink: "https://github.com/Nirome/OCProject3-Booki",
   },
   {
-    title: "Project title 2",
+    title: "Ohmyfood",
     image: projectImage2,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    description: `Création de l'interface mobile-first du site d'une start-up. Utilisation de Sass et implémentation d'animations CSS.`,
+    techstack: "HTML/CSS, Sass",
+    previewLink: "https://nirome.github.io/OCProject4-ohmyfood/",
+    githubLink: "https://github.com/Nirome/OCProject4-ohmyfood",
   },
   {
-    title: "Project title 3",
+    title: "Print-it",
     image: projectImage3,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
     techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    previewLink: "https://nirome.github.io/Print-it-JS/",
+    githubLink: "https://github.com/Nirome/Print-it-JS",
   },
   {
-    title: "Project title 4",
+    title: "Sophie Bluel",
     image: projectImage4,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
@@ -145,7 +143,7 @@ project lorem ipsum generator for dummy content`,
     githubLink: "https://github.com",
   },
   {
-    title: "Project title 5",
+    title: "Kasa",
     image: projectImage5,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
@@ -154,7 +152,7 @@ project lorem ipsum generator for dummy content`,
     githubLink: "https://github.com",
   },
   {
-    title: "Project title 6",
+    title: "ArgentBank",
     image: projectImage6,
     description: `This is sample project description random things are here in description This is sample
 project lorem ipsum generator for dummy content`,
