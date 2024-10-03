@@ -11,8 +11,6 @@ import sass from "./assets/techstack/sass.png";
 import js from "./assets/techstack/js.png";
 import react from "./assets/techstack/react.png";
 import redux from "./assets/techstack/redux.png";
-import tailwind from "./assets/techstack/tailwind.png";
-import bootstrap from "./assets/techstack/bootstrap.png";
 import vscode from "./assets/techstack/vscode.png";
 import github from "./assets/techstack/github.png";
 import git from "./assets/techstack/git.png";
@@ -20,7 +18,7 @@ import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
 import figma from "./assets/techstack/figma.png";
 // Porject Images
-import projectImage1 from "./assets/projects/project1.jpg";
+import projectImage1 from "./assets/projects/booki1.png";
 import projectImage2 from "./assets/projects/project2.jpg";
 import projectImage3 from "./assets/projects/project3.jpg";
 import projectImage4 from "./assets/projects/project4.jpg";
@@ -36,7 +34,7 @@ export const logos = {
 // Enter your Personal Details here
 export const personalDetails = {
   name: "Elodie Morin",
-  tagline: "I build things for web",
+  tagline: "Je suis intégratrice web",
   img: profile,
   about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
 };
@@ -44,7 +42,7 @@ export const personalDetails = {
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
   linkdein: "https://www.linkedin.com/",
-  github: "https://www.github.com/",
+  github: "https://www.github.com/Nirome",
   twitter: "https://twitter.com/",
   instagram: "https://www.instagram.com/",
 };
@@ -100,8 +98,6 @@ export const techStackDetails = {
   react: react,
   redux: redux,
   sass: sass,
-  tailwind: tailwind,
-  bootstrap: bootstrap,
   vscode: vscode,
   postman: postman,
   npm: npm,
