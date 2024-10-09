@@ -36,57 +36,50 @@ export const personalDetails = {
   name: "Elodie Morin",
   tagline: "Je suis intégratrice web",
   img: profile,
-  about: `Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.`,
+  about: `Après plusieurs années d'expérience en tant qu'infirmière, j'ai choisi de me réorienter vers le développement web, un domaine qui me fascine par son potentiel créatif et technique. Je viens de terminer la formation d’intégrateur web d'OpenClassrooms dans cette optique. Cette transition professionnelle est guidée par mon esprit analytique, ma capacité à rester concentrée sur des tâches complexes, ainsi que par une réelle passion pour la résolution de problèmes.`,
 };
 
 // Enter your Social Media URLs here
 export const socialMediaUrl = {
-  linkdein: "https://www.linkedin.com/",
+  linkedin: "https://www.linkedin.com/in/elodie-m-346801270/",
   github: "https://www.github.com/Nirome",
-  twitter: "https://twitter.com/",
+  twitter: "https://x.com/MorinElodie6",
   instagram: "https://www.instagram.com/",
 };
 
 // Enter your Work Experience here
 export const workDetails = [
   {
-    Position: "Frontend Web Developer",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Sep 2021 - Dec 2021",
-  },
-  {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
-  },
-  {
-    Position: "Internship",
-    Company: `Company Name here`,
-    Location: "Bengaluru",
-    Type: "Internship",
-    Duration: "Sep 2021 - Dec 2021",
+    Position: "",
+    Company: ``,
+    Location: "",
+    Type: "",
+    Duration: "",
   },
 ];
 
 // Enter your Education Details here
 export const eduDetails = [
   {
-    Position: "Frontend Development",
-    Company: "Udemy, YouTube, Google, Medium",
-    Location: "Online",
-    Type: "Full Time",
-    Duration: "Jan 2022 - Present",
+    Position: "Diplôme d'Intégrateur web",
+    Company: "OpenClassrooms",
+    Location: "En ligne",
+    Type: "Plein temps",
+    Duration: "Janvier - octobre 2024",
   },
   {
-    Position: "Bachelor in Electronics & Communication",
-    Company: `Your College Name here`,
-    Location: "Bengaluru",
-    Type: "Full Time",
-    Duration: "Aug 2020 - Present",
+    Position: "Diplôme d'État d'infirmière",
+    Company: "IFSI de Caen",
+    Location: "Caen",
+    Type: "Plein temps",
+    Duration: "Septembre 2013 - Juillet 2016",
+  },
+  {
+    Position: "Baccalauréat scientifique",
+    Company: `Lycée Marcel Gambier`,
+    Location: "Lisieux",
+    Type: "Plein temps",
+    Duration: "Juin 2002",
   },
 ];
 
@@ -111,7 +104,7 @@ export const projectDetails = [
   {
     title: "Booki",
     image: projectImage1,
-    description: `Création de la page d'accueil d'une agence de voyage. Intégration d'une interface responsive à partir de maquettes.`,
+    description: `Création de la page d'accueil d'une agence de voyage visant à faciliter la recherche d'hébergements. Intégration d'une interface responsive à partir de maquettes.`,
     techstack: "HTML/CSS",
     previewLink: "https://nirome.github.io/OCProject3-Booki/",
     githubLink: "https://github.com/Nirome/OCProject3-Booki",
@@ -119,7 +112,7 @@ export const projectDetails = [
   {
     title: "Ohmyfood",
     image: projectImage2,
-    description: `Création de l'interface mobile-first du site d'une start-up. Utilisation de Sass et implémentation d'animations CSS.`,
+    description: `Création de l'interface mobile-first du site d'une start-up qui répertorie les menus de restaurants gastronomiques. Utilisation de Sass et implémentation d'animations.`,
     techstack: "HTML/CSS, Sass",
     previewLink: "https://nirome.github.io/OCProject4-ohmyfood/",
     githubLink: "https://github.com/Nirome/OCProject4-ohmyfood",
@@ -127,8 +120,7 @@ export const projectDetails = [
   {
     title: "Print-it",
     image: projectImage3,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `Dynamisation du site internet statique d'une petite imprimerie familiale nommée Print it en ajoutant du langage JavaScript, et réalisation d'un carrousel.`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://nirome.github.io/Print-it-JS/",
     githubLink: "https://github.com/Nirome/Print-it-JS",
@@ -136,8 +128,7 @@ project lorem ipsum generator for dummy content`,
   {
     title: "Sophie Bluel",
     image: projectImage4,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
+    description: `Conception du site portfolio d'une architecte d'intérieur. Utilisation de JavaScript pour obtenir une page dynamique et appels API pour récupérer des données.`,
     techstack: "HTML/CSS, JavaScript",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
@@ -145,18 +136,16 @@ project lorem ipsum generator for dummy content`,
   {
     title: "Kasa",
     image: projectImage5,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `Refonte totale du site de Kasa codé en ASP.NET pour passer à une stack complète en JavaScript avec NodeJS côté back-end, et React côté front-end.`,
+    techstack: "HTML/CSS, React",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
   {
     title: "ArgentBank",
     image: projectImage6,
-    description: `This is sample project description random things are here in description This is sample
-project lorem ipsum generator for dummy content`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `Création d'une application web React pour une nouvelle banque en ligne. Mise en place du système d'authentification et du tableau de bord des utilisateurs.`,
+    techstack: "HTML/CSS, React",
     previewLink: "https://google.com",
     githubLink: "https://github.com",
   },
@@ -164,6 +153,5 @@ project lorem ipsum generator for dummy content`,
 
 // Enter your Contact Details here
 export const contactDetails = {
-  email: "hi@example.com",
-  phone: "+91 12345 67890",
+  email: "elodiemorin@hotmail.fr",
 };
