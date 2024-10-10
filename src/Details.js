@@ -1,6 +1,6 @@
 // Enter all your detials in this file
 // Profile Image
-import profile from "./assets/profile.jpg";
+import profile from "./assets/profile.webp";
 // Tech stack images
 import html from "./assets/techstack/html.png";
 import css from "./assets/techstack/css.png";
@@ -9,7 +9,7 @@ import js from "./assets/techstack/js.png";
 import react from "./assets/techstack/react.png";
 import redux from "./assets/techstack/redux.png";
 import vscode from "./assets/techstack/vscode.png";
-import github from "./assets/techstack/github.png";
+import github from "./assets/techstack/gh.webp";
 import git from "./assets/techstack/git.png";
 import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
@@ -112,8 +112,8 @@ export const projectDetails = [
   {
     title: "Print-it",
     image: projectImage3,
-    description: `Dynamisation du site internet statique d'une petite imprimerie familiale nommée Print it en ajoutant du langage JavaScript, et réalisation d'un carrousel.`,
-    techstack: "HTML/CSS, JavaScript",
+    description: `Dynamisation du site internet statique d'une petite imprimerie familiale nommée Print it en ajoutant du langage JavaScript, et réalisation d'un carrousel intéractif.`,
+    techstack: "HTML/CSS, JS",
     previewLink: "https://nirome.github.io/Print-it-JS/",
     githubLink: "https://github.com/Nirome/Print-it-JS",
   },
@@ -121,25 +121,25 @@ export const projectDetails = [
     title: "Sophie Bluel",
     image: projectImage4,
     description: `Conception du site portfolio d'une architecte d'intérieur. Utilisation de JavaScript pour obtenir une page dynamique et appels API pour récupérer des données.`,
-    techstack: "HTML/CSS, JavaScript",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    techstack: "HTML/CSS, JS",
+    previewLink: "",
+    githubLink: "https://github.com/Nirome/Portfolio-architecte-sophie-bluel",
   },
   {
     title: "Kasa",
     image: projectImage5,
-    description: `Refonte totale du site de Kasa codé en ASP.NET pour passer à une stack complète en JavaScript avec NodeJS côté back-end, et React côté front-end.`,
+    description: `Refonte totale du site d'une entreprise de location pour passer à une stack complète en JavaScript avec NodeJS côté back-end, et React côté front-end.`,
     techstack: "HTML/CSS, React",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    previewLink: "",
+    githubLink: "https://github.com/Nirome/OCProject7-Kasa",
   },
   {
-    title: "ArgentBank",
+    title: "Argent Bank",
     image: projectImage6,
-    description: `Création d'une application web React pour une nouvelle banque en ligne. Mise en place du système d'authentification et du tableau de bord des utilisateurs.`,
+    description: `Création d'une application web React pour une nouvelle banque en ligne, Argent Bank. Mise en place du système d'authentification et du tableau de bord des utilisateurs.`,
     techstack: "HTML/CSS, React",
-    previewLink: "https://google.com",
-    githubLink: "https://github.com",
+    previewLink: "",
+    githubLink: "https://github.com/Nirome/ArgentBank-website",
   },
 ];
 
