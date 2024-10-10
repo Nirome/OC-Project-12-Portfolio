@@ -8,8 +8,6 @@ function Technologies() {
     js,
     react,
     redux,
-    tailwind,
-    bootstrap,
     sass,
     vscode,
     git,
