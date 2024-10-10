@@ -10,6 +10,15 @@ function About() {
           À propos
         </h1>
         <p className="text-content py-8 lg:max-w-3xl">{personalDetails.about}</p>
+        {/* Lien vers le CV */}
+        <a 
+          href="/cv.pdf"  
+          target="_blank" 
+          rel="noopener noreferrer"
+          className="text-transparent bg-clip-text bg-gradient-to-r from-purple-500 to-[#a855f7] hover:from-purple-400 hover:to-[#a855f7] font-bold"
+        >
+          Télécharger mon CV
+        </a>
       </section>
       {/* <section>
         <h1 className="text-2xl text-dark-heading dark:text-light-heading md:text-4xl xl:text-5xl xl:leading-tight font-bold">
