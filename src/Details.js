@@ -1,7 +1,4 @@
 // Enter all your detials in this file
-// Logo images
-import logogradient from "./assets/logo.svg";
-import logo from "./assets/logo2.svg";
 // Profile Image
 import profile from "./assets/profile.jpg";
 // Tech stack images
@@ -25,11 +22,6 @@ import projectImage4 from "./assets/projects/sophie-bluel.webp";
 import projectImage5 from "./assets/projects/kasa.webp";
 import projectImage6 from "./assets/projects/argentbank.webp";
 
-// Logos
-export const logos = {
-  logogradient: logogradient,
-  logo: logo,
-};
 
 // Enter your Personal Details here
 export const personalDetails = {
