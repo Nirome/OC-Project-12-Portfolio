@@ -1,20 +1,21 @@
 {
   "files": {
     "main.css": "/OC-Project-12-Portfolio/static/css/main.115af2c4.css",
-    "main.js": "/OC-Project-12-Portfolio/static/js/main.9f9af6e2.js",
-    "static/media/profile.jpg": "/OC-Project-12-Portfolio/static/media/profile.36428334291cc6552756.jpg",
+    "main.js": "/OC-Project-12-Portfolio/static/js/main.1aa42747.js",
     "static/media/kasa.webp": "/OC-Project-12-Portfolio/static/media/kasa.236fbe987e21c1c7ac86.webp",
     "static/media/sophie-bluel.webp": "/OC-Project-12-Portfolio/static/media/sophie-bluel.b7c23ae8ccbd71ac4427.webp",
     "static/media/print-it.webp": "/OC-Project-12-Portfolio/static/media/print-it.f0a8c22578c7cf4515b4.webp",
     "static/media/booki.webp": "/OC-Project-12-Portfolio/static/media/booki.9f68c43618ee08dd3236.webp",
     "static/media/argentbank.webp": "/OC-Project-12-Portfolio/static/media/argentbank.364843422f4513f6ebde.webp",
+    "static/media/profile.webp": "/OC-Project-12-Portfolio/static/media/profile.df50c10cc9daccdbbb09.webp",
     "static/media/ohmyfood.webp": "/OC-Project-12-Portfolio/static/media/ohmyfood.cf6fd699067623f2b3e0.webp",
+    "static/media/gh.webp": "/OC-Project-12-Portfolio/static/media/gh.12ebccfbb449c174924f.webp",
     "index.html": "/OC-Project-12-Portfolio/index.html",
     "main.115af2c4.css.map": "/OC-Project-12-Portfolio/static/css/main.115af2c4.css.map",
-    "main.9f9af6e2.js.map": "/OC-Project-12-Portfolio/static/js/main.9f9af6e2.js.map"
+    "main.1aa42747.js.map": "/OC-Project-12-Portfolio/static/js/main.1aa42747.js.map"
   },
   "entrypoints": [
     "static/css/main.115af2c4.css",
-    "static/js/main.9f9af6e2.js"
+    "static/js/main.1aa42747.js"
   ]
 }
